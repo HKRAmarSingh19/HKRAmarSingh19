@@ -1,11 +1,11 @@
-# Hi 👋, I'm HKR Amar Singh
+Hi , HKR Amar Singh
 
-🚀 DevOps & Cloud Enthusiast | Linux | AWS | CI/CD | Kubernetes  
+Full Stack Developer | DevOps & Cloud Enthusiast | DSA Enthusiastic  
 📍 India
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Node.js](https://img.shields.io/badge/NOde.js-000000?style=for-the-badge&logo=Node.js)
+![React.js](https://img.shields.io/badge/React.js-232F3E?style=for-the-badge&logo=React)
+![SQL](https://img.shields.io/badge/SQL-2496ED?style=for-the-badge&logo=mysql)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
@@ -19,7 +19,7 @@ Currently focusing on **DevOps tools, Cloud infrastructure, and system design fu
 
 ## 🧠 About Me
 
-- 🐧 Strong interest in **Linux & Server Management**
+- 🐧 Strong interest in **Backned Developement**
 - ☁️ Learning **AWS Cloud (EC2, IAM, S3, VPC, RDS, CloudWatch)**
 - ⚙️ Working on **CI/CD pipelines** using Git & Jenkins
 - 🐳 Exploring **Docker & Kubernetes**
