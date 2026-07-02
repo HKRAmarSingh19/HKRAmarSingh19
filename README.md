@@ -8,10 +8,10 @@
 <h3 align="center">🚀 B.Tech CSE Student | Java Developer | MERN Stack Learner | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/DSA-Learning-blue?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/DevOps-Learning-informational?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Java_Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN_Stack-success?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/DSA_Learning-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/DevOps_Learning-informational?style=for-the-badge&logo=docker" />
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
