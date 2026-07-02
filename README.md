@@ -78,17 +78,17 @@
 
 <p align="left">
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/HkrAmarSingh/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+<a href="https://www.codechef.com/users/hkramar73">
 <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
+<!-- <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+</a> -->
 
 </p>
 
