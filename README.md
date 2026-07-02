@@ -126,18 +126,18 @@
 
 # 🚀 Current Focus
 
-- 📚 Data Structures & Algorithms
-- ⚛️ MERN Stack Development
-- ☁️ DevOps & CI/CD
-- 💡 Open Source Contributions
-- 🏗️ System Design Basics
+- </> Data Structures & Algorithms
+-  MERN Stack Development
+-  DevOps & CI/CD
+-  Open Source Contributions
+-  System Design Basics
 
 ---
 
 # 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HKRAmarSingh19&theme=tokyo-night"/>
 </p>
 
 ---
@@ -145,7 +145,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/HKRAmarSingh19/HKRAmarSingh19/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
