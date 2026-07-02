@@ -22,13 +22,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 🌱 Currently learning **Java, MERN Stack, DevOps & System Design**
-- 💻 Building Full Stack Web Applications
-- 🧩 Practicing Data Structures & Algorithms regularly
-- 🚀 Interested in Open Source Contributions
-- 🎯 Goal: Become a Software Engineer at a Top Product-Based Company
-- ⚡ Fun Fact: I enjoy solving coding problems and building real-world projects.
+-  B.Tech Computer Science Student
+-  Currently learning **Java, MERN Stack, DevOps & System Design**
+-  Building Full Stack Web Applications
+-  Practicing Data Structures & Algorithms regularly
+-  Interested in Open Source Contributions
+-  Goal: Become a Software Engineer at a Top Product-Based Company
+-  Fun Fact: I enjoy solving coding problems and building real-world projects.
 
 ---
 
@@ -36,15 +36,15 @@
 
 <p align="left">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/HKRAmarSingh19">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/hkr-amar-singh-270246308">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:hkramarsingh@gmail.com">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45"/>
 </a>
 
@@ -56,21 +56,19 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=java" /> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" /> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" /> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" /> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" /> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" /> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" /> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" /> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" /> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" /> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" /> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" /> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" /> &nbsp;&nbsp;&nbsp;
 
 </p>
 
